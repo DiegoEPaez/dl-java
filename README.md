@@ -26,17 +26,6 @@ Built in **2015**, this repository represents my early exploration into the inne
 - Mini-batch training
 - Convolutions implemented via brute force and using fast-fourier transform
 
-## 📁 Project Structure
-src/
-├── main/
-│   ├── java/
-│   │   ├── nn/              # Core neural network classes
-│   │   ├── math/            # Matrix, Vector, Linear Algebra
-│   │   ├── activation/      # Activation functions
-│   │   ├── loss/            # Loss functions
-│   │   └── optimizer/       # Optimizers
-│   └── resources/
-
 ## 🧪 Complete Working Example: LeNet-5
 
 A full implementation of the classic **LeNet-5** convolutional network is included:
